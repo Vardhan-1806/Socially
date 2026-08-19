@@ -2,6 +2,10 @@
 
 A full-stack social media app built with React, Node.js, Express, and MongoDB.
 
+🔗 **Live Demo:** [socially-omega-seven.vercel.app](https://socially-omega-seven.vercel.app)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen?style=for-the-badge)](https://socially-omega-seven.vercel.app)
+
 ---
 
 ## Project Structure
@@ -27,6 +31,7 @@ npm run dev
 ```
 
 **Required .env values:**
+
 | Key | Where to get it |
 |---|---|
 | `MONGO_URI` | MongoDB Atlas → Connect → Drivers |
